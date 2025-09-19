@@ -7,7 +7,7 @@
 
 <h2 align="center">실행 영상</h2>
 <p align="center" >
-  ![TaxiApp](https://github.com/user-attachments/assets/6a591df9-163b-49b9-a81c-ae0903d457b1)
+(https://github.com/user-attachments/assets/6a591df9-163b-49b9-a81c-ae0903d457b1)
 </p>
 <h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
 <p align="center" display=" inline">
